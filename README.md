@@ -452,7 +452,7 @@ If this project helped you, please consider:
 ## 👥 Credits
 
 ### Built By
-- **[Your Name](https://github.com/YourUsername)** - Full Stack Developer
+- **[T. M. Mehrab Hasan]((https://github.com/TM-Mehrab-Hasan/))**
 
 ### Special Thanks
 - Bootstrap team for the amazing framework
@@ -472,3 +472,4 @@ This project was inspired by the need for modern, user-friendly POS systems for 
 [⬆ Back to Top](#-modern-cafe-billing-system)
 
 </div>
+
